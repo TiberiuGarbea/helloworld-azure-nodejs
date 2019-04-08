@@ -18,8 +18,8 @@ npm install
 Debug desde el editor de código
 
 ## Endpoint generado
-![endpoint http](screenshot/endpoint.png)
+![endpoint http](screenshot/endpoint.PNG)
 
 ## Prueba de la API
-![test API REST](screenshot/prueba.png)
+![test API REST](screenshot/prueba.PNG)
 
